@@ -1,0 +1,9 @@
+metadata_version: 1
+name: Databricks - Python - Data Connector
+description: An SQL data connector.
+tags:
+- databricks
+- SQL
+- Data Connectors
+authors:
+- name: Stephen Pirpinias
